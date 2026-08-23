@@ -1,3 +1,5 @@
+**ACTIVE DIRECTORY**
+
 In a company network, there are many workstations from different departments. If we want to configure common policies on those computers, without Active Directory we have to do it manually on each computers. Its very time consuming, needs lots of efforts and can have errors.
 
 So we need to have a centralized way to manage policies, configuration and access to resources. This is where Active Directory comes in. 
@@ -150,7 +152,7 @@ Default Domain Controllers Policy > Right click > Edit
 
 <img width="877" height="297" alt="image" src="https://github.com/user-attachments/assets/c212e790-c034-48f7-af2d-88c9444909da" />
 
-========================================================================================================================
+=======================================================================================
 
 Now we need to have a setup a windows 10  machine
 
