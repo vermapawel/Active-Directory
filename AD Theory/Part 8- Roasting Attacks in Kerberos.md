@@ -158,40 +158,42 @@ Lets check with hashcat
 
 <img width="800" height="608" alt="image" src="https://github.com/user-attachments/assets/8f9cd40d-317e-4958-9b58-1dfb4bcb6c70" />
 
+Now, we can also attack on user leo as well because SPM is also set for leo user as well.
 
+***GetUserSPNs.py hexdump.lab/leo:'Hexdump123!' -dc-ip 192.168.1.10 -request-user leo***
 
+<img width="800" height="344" alt="image" src="https://github.com/user-attachments/assets/eda50637-cabe-4499-9aa0-6dfd6b7d2257" />
 
+Now, if we want to perform this attack on all the user
 
+***GetUserSPNs.py hexdump.lab/leo:'Hexdump123!' -dc-ip 192.168.1.10 -request***
 
+<img width="800" height="564" alt="image" src="https://github.com/user-attachments/assets/d2475843-4f07-44ea-ac03-594689723c21" />
 
+Now sometime we can get timestamp error
 
+<img width="800" height="165" alt="image" src="https://github.com/user-attachments/assets/c4677857-1e39-4b03-af7f-89b6f1d6143c" />
 
+Here we are performing attack on user kerberosting.
 
+We got an error Clock skew too great
 
+Lets say the client has a different time zone and server has a different time zone. So there will be difference in the time between client and server.
 
+So in this case we need to sync client clock with the Domain Controller
 
+We will disable the time demon on kali machine
 
+***sudo timedatectl set-ntp off***
 
+Then we will sync our time with DC time
 
+***sudo ntpdate -u 192.168.1.10***
 
+<img width="712" height="107" alt="image" src="https://github.com/user-attachments/assets/c1a8dbc4-a560-4013-be6d-b7e9c6b7a450" />
 
+Lets try the attack again
 
+<img width="800" height="242" alt="image" src="https://github.com/user-attachments/assets/c3d0f0bb-c472-4afc-8e9e-8159ecb8dc5d" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+And this time the attack worked
