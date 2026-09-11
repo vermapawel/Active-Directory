@@ -79,13 +79,21 @@ Now we will setup certificate services.
 
 <img width="720" height="513" alt="image" src="https://github.com/user-attachments/assets/9ed004b7-0a77-4821-b5c2-d1a4541f063a" />
 
+<img width="720" height="513" alt="image" src="https://github.com/user-attachments/assets/c5897898-a5ff-41e9-998a-601cb2a48bd0" />
 
+<img width="720" height="506" alt="image" src="https://github.com/user-attachments/assets/cee04bcf-d837-4830-a62e-d2b744528138" />
 
+<img width="720" height="510" alt="image" src="https://github.com/user-attachments/assets/c4a131b4-7b48-4194-a73a-8e5640fabd50" />
 
+<img width="720" height="512" alt="image" src="https://github.com/user-attachments/assets/a86659af-601b-4640-b686-d502d7362c1a" />
 
+<img width="720" height="513" alt="image" src="https://github.com/user-attachments/assets/05940366-4fe7-4471-96a5-d64d0b296e2a" />
 
+<img width="720" height="510" alt="image" src="https://github.com/user-attachments/assets/390411c7-5f5f-408d-b9de-327e3b764fb2" />
 
+<img width="720" height="528" alt="image" src="https://github.com/user-attachments/assets/3becae12-a3b1-4ffa-ac31-9f6c520f77a6" />
 
+<img width="720" height="531" alt="image" src="https://github.com/user-attachments/assets/beb6797a-d99e-4381-95dd-75cd1ab281f5" />
 
 
 
