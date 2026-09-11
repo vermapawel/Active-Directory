@@ -95,23 +95,22 @@ Now we will setup certificate services.
 
 <img width="720" height="531" alt="image" src="https://github.com/user-attachments/assets/beb6797a-d99e-4381-95dd-75cd1ab281f5" />
 
+<img width="720" height="530" alt="image" src="https://github.com/user-attachments/assets/fa829ac9-0bba-4ead-8010-41cd578337a9" />
 
+<img width="720" height="531" alt="image" src="https://github.com/user-attachments/assets/d080b6b9-bb89-4983-bee5-89668097adf5" />
 
+<img width="720" height="525" alt="image" src="https://github.com/user-attachments/assets/a4b157ea-471f-4cbc-abbe-ca5abe99ef13" />
 
+<img width="720" height="535" alt="image" src="https://github.com/user-attachments/assets/9ffb0731-2508-44a7-8387-03e33aeb28c2" />
 
+<img width="720" height="530" alt="image" src="https://github.com/user-attachments/assets/5a775024-307a-4a76-805d-38490f928617" />
 
+<img width="720" height="529" alt="image" src="https://github.com/user-attachments/assets/889d45e0-3d54-41c8-b752-6a55910f87a7" />
 
+<img width="720" height="529" alt="image" src="https://github.com/user-attachments/assets/25974346-c1f0-479c-9d3e-cdf701da76e6" />
 
+<img width="720" height="528" alt="image" src="https://github.com/user-attachments/assets/163872e4-ca4b-456c-bc41-279d569e0976" />
 
+<img width="720" height="526" alt="image" src="https://github.com/user-attachments/assets/b5ada6c4-424b-40da-8415-45ccec50b598" />
 
-
-
-
-
-
-
-
-
-
-
-
+<img width="720" height="511" alt="image" src="https://github.com/user-attachments/assets/599efe2f-64cb-479c-8ecb-6a8b424840fc" />
