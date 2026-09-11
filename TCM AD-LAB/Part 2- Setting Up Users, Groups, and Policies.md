@@ -98,8 +98,42 @@ Lets create a File share
 
 <img width="720" height="526" alt="image" src="https://github.com/user-attachments/assets/40535150-8b97-456b-ab49-b0e76efe6222" />
 
+<img width="720" height="530" alt="image" src="https://github.com/user-attachments/assets/02deb1b2-1158-4495-8036-2d10114a1911" />
 
+Share has been created
 
+Now we need to setup the service Account.
 
+***setspn -a HYDRA-DC/SQLService.MARVEL.local:60111 MARVEL\SQLService***
 
+<img width="720" height="204" alt="image" src="https://github.com/user-attachments/assets/2ea61c77-45fd-41e9-82df-4cb5a82c3e71" />
 
+Lets verity
+
+setspn -T MARVEL.local -Q */*
+
+<img width="720" height="453" alt="image" src="https://github.com/user-attachments/assets/9c21278b-921f-4609-8e72-f8d7acb05e38" />
+
+Now, we will set up a Group Policy. This policy will be setup for entire domain
+
+<img width="720" height="580" alt="image" src="https://github.com/user-attachments/assets/73aa5075-67a1-4bf9-a111-042d583a56b6" />
+
+<img width="720" height="500" alt="image" src="https://github.com/user-attachments/assets/2c1e182a-6f31-4e54-b080-5500a3956219" />
+
+<img width="720" height="396" alt="image" src="https://github.com/user-attachments/assets/db861254-fb9c-4dd3-8610-8a52864bc2bc" />
+
+Group Policy is created. Now we need to edit it
+
+<img width="720" height="430" alt="image" src="https://github.com/user-attachments/assets/dccdcc7e-9dcf-477f-9de2-00ca81bbcb6d" />
+
+<img width="720" height="511" alt="image" src="https://github.com/user-attachments/assets/ed905ee1-3d52-46cb-90ef-b8deb9ad48cc" />
+
+Here we will search Windows Anti Virus
+
+<img width="720" height="404" alt="image" src="https://github.com/user-attachments/assets/62ccf2ac-886d-462e-b83f-15a59c208330" />
+
+<img width="720" height="471" alt="image" src="https://github.com/user-attachments/assets/7412df20-4021-41cc-b686-44b8991a6981" />
+
+<img width="720" height="486" alt="image" src="https://github.com/user-attachments/assets/8761b555-2b48-42a3-99bb-cb3fed0681be" />
+
+<img width="720" height="327" alt="image" src="https://github.com/user-attachments/assets/d2be653c-b35a-484f-9ed7-673b5e534f81" />
