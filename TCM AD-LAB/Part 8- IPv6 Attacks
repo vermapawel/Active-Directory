@@ -1,0 +1,48 @@
+**IPv6 Attacks**
+
+Most of the times system is using IPv4. Chances are that the machine is not utilizing IPv6. So if IPv6 is turned ON, and we are using IPv4, nobody is doing DNS resolution for IPv6.
+
+We can set out attacker machin in the network to listin for all IPv6 DNS request. We can spoof the DNS server so all DNS traffic will pass by Attacker machine.
+
+When this happens, we can get authentication from Domain controller via LDAP or via SMB.
+
+We will reboot a machine, after reboothing the request will come to the attacker machine. We can use that machine to login at domain controller.
+
+We will start a listner
+
+***ntlmrelayx.py -6 -t ldaps://192.168.1.100 -wh fake.marvel.local -l IPv6_Attack***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
